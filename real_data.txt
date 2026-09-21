@@ -1,0 +1,3 @@
+The company with the highest total layoffs is Amazon, with 58124 employees laid off.
+The total number of layoffs across all companies in this dataset is 920105.
+The industry with the highest total layoffs is Other.
